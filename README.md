@@ -1,4 +1,4 @@
-# 📘 PostgreSQL Documentation –
+# 📘 PostgreSQL Documentation 
 
 ## 1️⃣ PostgreSQL কী?
 
